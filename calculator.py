@@ -26,3 +26,4 @@ def is_even(n):
 if __name__ == "__main__":
     print("2 + 3 =", add(2, 3))
     print("10 / 4 =", divide(10, 4))
+    print("3 * 4 =", multiply(3, 4))
